@@ -6,7 +6,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
+
+# Atualmente sou estudante do  [curso.dev](https://curso.dev)
+
 Além disso, concluí o curso [CS50 de Harvard](https://cs50.harvard.edu), um dos cursos de ciência da computação mais prestigiados e desafiadores do mundo, onde aprendi fundamentos sólidos em programação e desenvolvimento de software.
+![Thisiscs50](https://github.com/abnercezar/CS50x/assets/102832541/05954b62-d45d-4b1e-bac4-52d3c744cf57)
 
 ---
 
@@ -19,5 +24,7 @@ Além disso, concluí o curso [CS50 de Harvard](https://cs50.harvard.edu), um do
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=abnercezar&layout=compact&theme=radical)
 
 ---
+
+
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a novas ideias e colaborações!
