@@ -5,7 +5,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Langflow](https://img.shields.io/badge/⛓️Langflow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Langflow](https://⛓️Langflow-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
