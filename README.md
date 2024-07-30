@@ -10,7 +10,7 @@
 
 # Atualmente sou estudante do  [curso.dev](https://curso.dev)
 
-Além disso, concluí o curso [CS50 de Harvard](https://cs50.harvard.edu), um dos cursos de ciência da computação mais prestigiados e desafiadores do mundo, onde aprendi fundamentos sólidos em programação e desenvolvimento de software.
+Além disso, concluí o curso [CS50x e CS50IA de Harvard](https://cs50.harvard.edu), um dos cursos de ciência da computação e de Inteligência artificial mais prestigiados e desafiadores do mundo, onde aprendi fundamentos sólidos em programação, inteligência artificial e desenvolvimento de software.
 ![Thisiscs50](https://github.com/abnercezar/CS50x/assets/102832541/05954b62-d45d-4b1e-bac4-52d3c744cf57)
 
 ---
