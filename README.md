@@ -16,7 +16,7 @@
 ---
 
 # Atualmente sou aluno do  [curso.dev](https://curso.dev)
-![image](https://github.com/user-attachments/assets/b3370cd6-892e-4dde-8170-be92abaca0fd)
+![image](https://github.com/user-attachments/assets/9a7a29b3-47ae-44b7-b272-52e57236eeb2)
 
 
 Além disso, concluí o curso [CS50x de Harvard](https://cs50.harvard.edu) e [CS50AI de Harvard](https://cs50.harvard.edu/ai/2024/) um dos cursos de Ciência da Computação e de Inteligência Artificial mais prestigiados e desafiadores do mundo, onde aprendi fundamentos sólidos em programação, inteligência artificial e desenvolvimento de software.
