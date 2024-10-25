@@ -29,7 +29,7 @@ Atualmente sou aluno do [curso.dev](https://curso.dev). Além disso, concluí o 
 
 ## Projetos em Destaque
 
-- [Projeto 1](https://github.com/abnercezar/clone-tabnews): Breve descrição do projeto.
+- [Clone-Tabnews]([link-do-projeto-1](https://github.com/abnercezar/clone-tabnews)): Breve descrição do projeto.
 
 ---
 
