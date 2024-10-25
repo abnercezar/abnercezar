@@ -31,7 +31,3 @@ Além disso, concluí o curso [CS50x de Harvard](https://cs50.harvard.edu) e [CS
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=abnercezar&layout=compact&theme=radical)
 
 ---
-
-
-
-Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a novas ideias e colaborações!
