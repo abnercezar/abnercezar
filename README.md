@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu GitHub 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-nome-de-usuario&color=blue)
+
 
 ## Sobre Mim
 Atualmente sou aluno do  [curso.dev](https://curso.dev)
@@ -14,6 +14,7 @@ Além disso, concluí o curso [CS50x de Harvard](https://cs50.harvard.edu) e [CS
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=seu-nome-de-usuario&color=blue)
 
 ## Estatísticas no GitHub
 ![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=abnercezar&show_icons=true&theme=radical)
