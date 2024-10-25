@@ -20,6 +20,8 @@
 
 
 Além disso, concluí o curso [CS50x de Harvard](https://cs50.harvard.edu) e [CS50AI de Harvard](https://cs50.harvard.edu/ai/2024/) um dos cursos de Ciência da Computação e de Inteligência Artificial mais prestigiados e desafiadores do mundo, onde aprendi fundamentos sólidos em programação, inteligência artificial e desenvolvimento de software.
+
+
 ![Thisiscs50](https://github.com/abnercezar/CS50x/assets/102832541/05954b62-d45d-4b1e-bac4-52d3c744cf57)
 
 ---
