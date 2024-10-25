@@ -1,26 +1,28 @@
 # Bem-vindo ao Meu GitHub 👋
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Profile Views](https://komarev.com/ghpvc/?username=seu-nome-de-usuario&color=blue)
-
-
-
-
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=abnercezar&color=blue)
 
 ---
 
-# Atualmente sou aluno do  [curso.dev](https://curso.dev)
-![image](https://github.com/user-attachments/assets/9a7a29b3-47ae-44b7-b272-52e57236eeb2)
+# Sobre mim 🚀
 
+Aluno do [curso.dev](https://curso.dev) | Harvard CS50x e CS50AI graduate 🎓
 
-Além disso, concluí o curso [CS50x de Harvard](https://cs50.harvard.edu) e [CS50AI de Harvard](https://cs50.harvard.edu/ai/2024/) um dos cursos de Ciência da Computação e de Inteligência Artificial mais prestigiados e desafiadores do mundo, onde aprendi fundamentos sólidos em programação, inteligência artificial e desenvolvimento de software.
-![Thisiscs50](https://github.com/abnercezar/CS50x/assets/102832541/05954b62-d45d-4b1e-bac4-52d3c744cf57)
+Desenvolvedor full-stack apaixonado por criar soluções inovadoras e eficientes. Com experiência em Laravel, Vue.js, PHP, Python e JavaScript, sempre buscando melhorar meu código e aprender novas tecnologias.
+
+🌟 Objetivo: Criar aplicações que melhorem vidas das pessoas através da tecnologia.
+
+---
+
+## Meus Projetos 🛠️
+
+[Link para o seu projeto mais impressionante]
+[Link para outro projeto relevante]
 
 ---
 
@@ -34,6 +36,26 @@ Além disso, concluí o curso [CS50x de Harvard](https://cs50.harvard.edu) e [CS
 
 ---
 
+## Habilidades 💼
 
+- Desenvolvimento de software
+- Programação em PHP, Python, JavaScript e Vue.js
+- Trabalho com banco de dados
+- Design responsivo
+- Testes unitários e integração
 
-Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a novas ideias e colaborações!
+---
+
+## Contato 📱
+
+[LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+[Github](https://github.com/abnercezar)
+[Email](mailto:seuemail@email.com)
+
+---
+
+# Obrigado por visitar! 😊
+
+"O verdadeiro programador não é alguém que escreve código, mas alguém que resolvendo problemas." - Alan Kay
+
+[Imagem personalizada ou ícone representativo]
