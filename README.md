@@ -10,7 +10,7 @@
 
 # Atualmente sou aluno do  [curso.dev](https://curso.dev)
 
-Além disso, concluí os cursos [CS50x de Harvard](https://cs50.harvard.edu), [CS50AI de Harvard](https://cs50.harvard.edu/ai/2024/) e [CS50W de Harvard](https://cs50.harvard.edu/web/2020/) três dos cursos mais prestigiados e desafiadores do mundo, onde aprendi fundamentos sólidos em programação, inteligência artificial e desenvolvimento web.
+Além disso, concluí os cursos [CS50x](https://cs50.harvard.edu), [CS50AI](https://cs50.harvard.edu/ai/2024/) e [CS50W](https://cs50.harvard.edu/web/2020/) de Harvard três dos cursos mais prestigiados e desafiadores do mundo, onde aprendi fundamentos sólidos em programação, inteligência artificial e desenvolvimento web.
 
 ![Thisiscs50](https://github.com/abnercezar/CS50x/assets/102832541/05954b62-d45d-4b1e-bac4-52d3c744cf57)
 
