@@ -1,6 +1,6 @@
 # Abner Cezar
 
-Web Developer focado em arquitetura de sistemas, qualidade de código e evolução sustentável de produtos digitais.
+Desenvolvedor Web focado em arquitetura de sistemas, qualidade de código e evolução sustentável de produtos digitais.
 
 ---
 
