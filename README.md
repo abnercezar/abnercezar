@@ -50,6 +50,7 @@ Trabalho orientado a:
 ## 🎓 Formação
 
 Análise e Desenvolvimento de Sistemas - CESUMAR
+
 CS50x • CS50AI • CS50W - HARVARD
 
 Aluno do curso.dev
