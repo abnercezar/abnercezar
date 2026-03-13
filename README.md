@@ -51,6 +51,7 @@ Trabalho orientado a:
 
 Análise e Desenvolvimento de Sistemas - CESUMAR
 CS50x • CS50AI • CS50W - HARVARD
+
 Aluno do curso.dev
 
 Base sólida em ciência da computação, inteligência artificial e desenvolvimento web.
