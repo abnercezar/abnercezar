@@ -9,7 +9,7 @@ Desenvolvedor Web focado em arquitetura de sistemas, qualidade de código e evol
 ### EmpreendNews  
 https://empreendnews.com.br/
 
-Plataforma de notícias desenvolvida e mantida por mim.
+Plataforma para empreendedores independentes criada e mantida por mim.
 
 - Arquitetura estruturada em Laravel
 - Código orientado a testes (Pest + Vitest)
