@@ -6,8 +6,11 @@ Desenvolvedor Web focado em arquitetura de sistemas, qualidade de código e evol
 
 ## 🚀 Projetos
 
+### JoaoDeBarro
+https://joaodebarro.app.br/
+
 ### EmpreendNews  
-https://empreendnews.com.br/
+https://empreendnews.com.br
 
 Plataforma para empreendedores independentes criada e mantida por mim.
 
